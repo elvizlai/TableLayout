@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="normal_btn">Normal Button</string>
+    <string name="standalone_btn">Button Standlone</string>
+    <string name="shrinked_btn">Shrinded Button</string>
+    <string name="stretched_btn">Stretched Button</string>
+</resources>
